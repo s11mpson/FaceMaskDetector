@@ -6,3 +6,4 @@ voila
 pandas
 numpy
 sklearn
+mkl
