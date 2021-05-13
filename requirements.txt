@@ -7,4 +7,3 @@ voila
 pandas
 numpy
 sklearn
-heroku ps:scale web=1
